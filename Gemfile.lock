@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/voxmedia/autotune.git
-  revision: ea4fc17fb946f8bf7d6e249d664cca8e3e325ad7
+  revision: 1ccfa3be3c725f893c5432bb873a125a3151cd9a
   specs:
     autotune (0.0.1)
       bootstrap-sass (~> 3.3.4)
