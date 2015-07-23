@@ -1,7 +1,7 @@
 # Be sure to restart your server when you modify this file.
 
 # For notifications
-Autotune.redis = Redis.new(:host => ENV['REDIS_SERVER'])
+Autotune.redis = Redis.new(:url => ENV['REDIS_URL'])
 
 # Where should the `FAQ` link go?
 Rails.configuration.autotune.faq_url = \
