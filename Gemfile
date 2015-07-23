@@ -50,4 +50,5 @@ gem 'foreman', '~> 0.77.0'
 gem 'unicorn-rails', '~> 2.2.0'
 gem 's3deploy', git: 'https://github.com/ryanmark/s3deploy-ruby.git'
 gem 'autotune', git: 'https://github.com/voxmedia/autotune.git'
+gem 'rails_12factor', group: :production
 ruby "2.2.1"
